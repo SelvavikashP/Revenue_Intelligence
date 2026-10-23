@@ -4,8 +4,9 @@ A production-style, offline-capable B2B SaaS application for sales leadership to
 
 Built for the **Revenue Intelligence Inbox** assignment based on `data/01_initial.json` and `data/02_update.json`.
 
-- **Live Deployed URL:** [https://agile-lute-gkn3zng.tmp.now](https://agile-lute-gkn3zng.tmp.now)
-- **Claim & Link to Vercel Account:** [https://vercel.com/claim-deployment?code=074599d4-fcdf-4eed-b7e0-e311cca777c9](https://vercel.com/claim-deployment?code=074599d4-fcdf-4eed-b7e0-e311cca777c9)
+- **Live Production URL (Render):** [https://spendnest-revenue-intelligence.onrender.com](https://spendnest-revenue-intelligence.onrender.com)
+- **GitHub Repository:** [https://github.com/SelvavikashP/Revenue_Intelligence](https://github.com/SelvavikashP/Revenue_Intelligence)
+- **Render Dashboard:** [https://dashboard.render.com/static/srv-dbdicurrjlhs73ddgf8g](https://dashboard.render.com/static/srv-dbdicurrjlhs73ddgf8g)
 
 ---
 
